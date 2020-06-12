@@ -1,0 +1,107 @@
+
+.div1{
+border:1px solid;
+background:#e4db77;
+}
+
+.title{
+	font-size:100px;
+}
+.title1{
+    font-size: 40px;
+}
+.img1{
+	height:300px;
+	width:100%;
+}
+.row1{
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#d4d4d4+1,ffffff+100 */
+background: #d4d4d4; /* Old browsers */
+background: -moz-linear-gradient(top, #d4d4d4 1%, #ffffff 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, #d4d4d4 1%,#ffffff 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, #d4d4d4 1%,#ffffff 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d4d4d4', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+}
+.row2{
+    margin:30px;
+    background:#e4db77;
+   
+}
+.button{
+    height:40px;width:150px
+}
+.par{
+    margin-left:20px;
+}
+
+p{
+    margin:20px;
+}
+.white_space{
+    height:20px;
+    background:white;
+}
+
+.vd_icon {
+    background:#C5BA3E;
+    border-radius:100%;
+    height:100px;
+    width:100px;
+    text-align:center;
+    line-height: 100px !important;
+}
+
+.center{
+    text-align: center;
+}
+.r_border{
+    border-right:5px solid;
+}
+.button_div{
+    margin:20px;
+}
+.border{
+    border-top:30px solid #C5BA3E;
+}
+.border1{
+    border-bottom:5px solid;
+}
+.border2{
+    border-bottom:20px solid;
+}
+.para{
+   line-height:50px;margin:0; font-size:4em;padding-top: 90px;
+}
+.para1{
+    margin:0;
+}
+.img2{
+    height:200px;width:200px;
+}
+.footer
+{
+    text-align:right;
+}
+
+@media only screen and (max-width: 1024px) {
+    .img1 {
+        padding: 10px 0px;
+    }
+    .footer {
+        text-align: center;
+    }
+    .para{
+        text-align:center;
+    }
+     .para1{
+        text-align:center;
+    }
+    .title{
+        text-align: center;
+    }
+    
+    
+}
+
+.font_rb { font-family: 'Roboto', sans-serif; }
+
